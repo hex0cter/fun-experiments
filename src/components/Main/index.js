@@ -18,6 +18,9 @@ export default function Main() {
   })
 
   window.addEventListener("click", (event) => {
+    if(event.clientY > window.innerHeight - 100) {
+      return;
+    }
     // console.log(event);
     setXPos(event.clientX);
     setYPos(event.clientY);
