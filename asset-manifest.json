@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kids-experiments/static/css/main.27328ec0.chunk.css",
+    "main.js": "/kids-experiments/static/js/main.25339cb7.chunk.js",
+    "main.js.map": "/kids-experiments/static/js/main.25339cb7.chunk.js.map",
+    "runtime-main.js": "/kids-experiments/static/js/runtime-main.79ed133f.js",
+    "runtime-main.js.map": "/kids-experiments/static/js/runtime-main.79ed133f.js.map",
+    "static/js/2.15257ada.chunk.js": "/kids-experiments/static/js/2.15257ada.chunk.js",
+    "static/js/2.15257ada.chunk.js.map": "/kids-experiments/static/js/2.15257ada.chunk.js.map",
+    "static/js/3.0e395e8a.chunk.js": "/kids-experiments/static/js/3.0e395e8a.chunk.js",
+    "static/js/3.0e395e8a.chunk.js.map": "/kids-experiments/static/js/3.0e395e8a.chunk.js.map",
+    "index.html": "/kids-experiments/index.html",
+    "static/css/main.27328ec0.chunk.css.map": "/kids-experiments/static/css/main.27328ec0.chunk.css.map",
+    "static/js/2.15257ada.chunk.js.LICENSE.txt": "/kids-experiments/static/js/2.15257ada.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79ed133f.js",
+    "static/js/2.15257ada.chunk.js",
+    "static/css/main.27328ec0.chunk.css",
+    "static/js/main.25339cb7.chunk.js"
+  ]
+}
